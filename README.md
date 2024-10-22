@@ -33,12 +33,12 @@ Personal Expense Tracker is a financial management application that allows users
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mavyax.git
+   git clone https://github.com/yourusername/floww.ai.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd mavyax
+   cd floww.ai
    ```
 
 3. Install the required dependencies:
@@ -51,7 +51,7 @@ Personal Expense Tracker is a financial management application that allows users
    DB_HOST=localhost
    DB_USER=your_username
    DB_PASSWORD=your_password
-   DB_NAME=mavyax
+   DB_NAME=floww_ai
    ```
 
 5. Run the application:
