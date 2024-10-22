@@ -218,14 +218,3 @@ Personal Expense Tracker is a financial management application that allows users
     "balance": 50.00
   }
   ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Key Changes
-- Added the **Categories** section, detailing endpoints for creating, retrieving, updating, and deleting categories.
-- Included sample responses for category endpoints.
-
-Feel free to customize it further to match your project needs!
