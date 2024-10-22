@@ -218,3 +218,7 @@ Personal Expense Tracker is a financial management application that allows users
     "balance": 50.00
   }
   ```
+
+  ### API Screenshot
+  ![alt text](<Screenshot (60).png>)
+
